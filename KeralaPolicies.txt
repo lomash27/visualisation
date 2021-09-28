@@ -1,0 +1,17 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<h3>Kerala</h3>
+<ol>
+<li>Kerala plans to build world-class training and skill centres for EV professionals with niche skills for the global EV industry.</li>
+<li>Target: The policy targets a 200K two-wheelers, 50K three-wheelers, 1K goods carriers, 3,000 buses and 100 ferry boats by 2020.</li>
+<li>The policy has a strong focus on the production side in both the EV value chain and the infrastructure value chain.</li>
+<li>The south Western tip state of the country plans to put 1 million EV units on its road by 2022. Taking its ambition seriously, Kerala govt assigned a task force to develop e-mobility road-map, with a pilot fleet of 2,00,000 two-wheelers, 50,000 three-wheelers, 1,000 goods carriers, 3,000 buses and 100 ferry boats, ready and in operation, by 2020.</li>
+<li>Autorickshaws are the frontrunners of the shift to EVs as the state aims 100% electrification of vehicles by 2030. How? Kerala is also plans to go into a production facility of e-vehicles, where state PSU Kerala Automobiles will tie up in a PPP model with private vehicle makers, to manufacture electric three-wheelers.</li>
+<li>The first priority is to convert three wheelers and stage carriers, followed by electric buses and boats. The Pilot is running in 3 districts: Thiruvananthapuram, Kochi and Kozhikode.</li>
+<li>The newly registered EVs will get a three-year exemption in road tax. Manufacturers will be entitled to electricity at concessional tariff, tax breaks, priority in allotment of land and investment allowance under Centre's 'Make in India' policy.</li>
+<li>The current plan is to adopt swappable battery model as the prime mode of battery recharging. 20 charging stations are to be set up in three pilot districts and 150 swapping stations of 2W/3W/4W capacity.</li>
+<li>Under early adoption support scheme, an incentive of Rs 30,000 or 25 percent of the EV (whichever is lower) for three wheelers will be provided for the initial period of one year.</li>
+</ol>
+</html>

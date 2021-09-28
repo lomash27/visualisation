@@ -1,0 +1,11 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<h3>Madhya Pradesh</h3>
+<ol>
+<li>Madhya Pradesh also joined the EV bandwagon this year with the main objective to promote sustainable electric mobility and bring about a material improvement in Madhya Pradesh air quality by bringing down emissions from the transport sector.</li>
+<li>Target: The rapid adoption of electric vehicles in a manner where they contribute to 25% of all new public transport vehicles registrations by 2026.</li>
+<li>This policy will also seek to put in place measures to support the creation of jobs in driving, selling, financing, servicing, charging and manufacturing of EVs. It further provides incentives like free parking, free road tax/registration, swappable battery to e-rickshaws, financial aid from the DUTF (Dedicated Urban Transport Fund) for electric buses.</li>
+</ol>
+</html>

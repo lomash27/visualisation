@@ -1,0 +1,25 @@
+<html>
+<h3>Delhi</h3>
+<ol>
+<li>Aims: To reduce air pollution and to kick-start the economy by spurring demand.</li>
+<li>Target: The policy aims at pushing rapid adoption of battery electric vehicles (BEVs) with the goal of their constituting 25% of all new vehicle registrations by 2023. The policy prioritises two-wheelers, three-wheelers, public transport (bus) and taxi fleets. Delhi plans to add 50% e-buses to public transport by 2023</li>
+<li>Features
+<ul>
+<li>It envisions the replacement of the existing auto-rickshaws and State-run buses with e-autos and e-buses respectively. It will also ensure that delivery-based services operating in the city are powered by e-mobility.</li>
+<li>It talks about increasing road tax for fuel-based vehicles, at least in the luxury segment and imposing in certain parts of the city a congestion fee that EVs will be exempt from.</li>
+<li>It has a 'scrapping incentive' for those people who want to make the switch, allowing them to exchange an old fuel-based vehicle while purchasing a new EV, further reducing its cost.</li>
+<li>The government will also offer low-interest rate loans to people interested in buying commercial EVs.</li>
+<li>The policy also offers subsidies and road tax and registration fee waivers, for EVs bought in the capital.</li>
+<li>At present, road tax ranges from 4% to 10% of the cost of the vehicle, while the registration fee could cost up to Rs. 3,000.</li>
+<li>In addition, a subsidy of Rs. 5,000 per kWh of the battery capacity up to Rs. 30,000 will be given on the purchase of each EV.</li>
+<li>For the first 1,000 e-cars or electric four-wheelers, a subsidy of Rs. 10,000 per kWh will be given, capped at Rs. 1,50,000 per vehicle.</li>
+<li>These grants will be in addition to the subsidies offered by the Union government under its FAME India Phase 2 scheme, which offers similar incentives, especially on the purchase of electric two-wheelers and electric heavy passenger and goods vehicles.</li>
+<li>A State EV fund will be set up, encompassing all the expenditure of the EV Policy. A State Electric Vehicle Board will be constituted for effective implementation of the policy and managing the fund. Besides, a dedicated EV Cell will also be constituted.</li>
+</ul>
+</li>
+<li>Delivery-based and Ride-hailing Services: Ride-hailing service providers will be allowed to operate electric two-wheeler taxis subject to operating within the guidelines to be issued by the Transport Department. It is expected that the incentives provided by the policy would encourage delivery service providers related to food delivery, e-commerce logistics providers and couriers to switch to using electric two-wheelers. All delivery service providers shall be expected to convert 50% of their fleet operating in Delhi to electric by 31st March 2023 and 100% by 31st March 2025. Delivery service providers who commit to achieving these targets will be eligible for financing support from the Delhi Finance Corporation.</li>
+<li>Autorickshaws: Incentives will be provided related to the purchase (Rs. 30,000 per vehicle) and use of new electric autos. An open permit system will be put in place to provide permits on a first-come, first-served basis to those with valid light motor vehicle driving licences and a Public Service Vehicle badge. The open permit system for e-autos shall be subject to the cap on the maximum number of autos if the Supreme Court will direct so in future. There will be no cap on permits issued to e-autos in Delhi since they are zero-emission vehicles and can be very effective in ensuring clean, last-mile connectivity. Currently, there is a cap on the number of CNG-run auto-rickshaws, allowed to ply in the city.</li>
+<li>Buses: The policy envisions that half of the State-run buses to be procured over the next three years will be pure electric buses. It will start doing so with the induction of 1,000 pure electric buses by 2020.</li>
+<li>The state reportedly also plans to encourage long-term investment by dealers and charging facility providers to create enabling conditions for private and public charging infrastructure. Delhi's policy provides a unique electricity tariff for EV charging and encourages discoms to work with owners of residential and non-residential buildings to ensure adequate power supply infrastructure for the installation of these charging points. Additionally, the policy also promises that the state will have public charging infrastructure at least every 3 Km.</li>
+</ol>
+</html>

@@ -1,0 +1,13 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<h3>Gujarat</h3>
+<ol>
+<li>The Gujarat State Government has been providing subsidies of about Rs 10,000 to 2000 students for the purchase of two-wheeler EVs.</li>
+<li>Tata Motors Limited has proposed to invest over Rs 1,600 crores to manufacture electric vehicles at Motown Sanand, Near Ahmedabad.</li>
+<li>JSW already has plans to set up EV Plant in Gujarat. Suzuki Motors is also looking at production of Electric cars and a Battery Plant.</li>
+<li>Transport infrastructure is of international standards in Gujarat, it will be easy to set up EV charging infrastructure here. It's a matter of time that the state government rolls out a specific EV policy for the state as its may fast become a hub for EV manufacturing.</li>
+<li>Target: The state plans on having 600 battery operated three wheelers (E-Rickshaw) in the state up to March 31, 2019.</li>
+</ol>
+</html>

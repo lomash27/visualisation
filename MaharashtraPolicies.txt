@@ -1,0 +1,27 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<h3>Maharashtra</h3>
+<ol>
+<li>Maharashtra came up with an effective EV policy to develop Maharashtra as the leader in EV manufacturing and use of EV and promote export of EV, components, battery and charging equipment.</li>
+<li>It aims to increase the number of EVs registered in Maharashtra to 5 Lakh and grab an investment of INR 25K Cr in EV manufacturing and component manufacturing, battery manufacturing/assembly enterprises and charging infrastructure equipment manufacturing in the state.</li>
+<li>The policy also offers incentives for the purchase of e-buses and buyers and end-users of private vehicles.</li>
+<li>Buyer’s incentives:
+<ul>
+<li>Exemption of GST, Registration Tax, Road tax.</li>
+<li>Subsidy of 15 % on the total cost of the EV till 1 Lakh; car should be registered in Maharashtra.</li>
+</ul>
+</li>
+<li>EV Manufacturer's Incentive:
+<ul>
+<li>Allowed to install EV chargers at Petrol/Gas stations (subject to safety clearance).</li>
+<li>First 250 Stations will get 25% subsidy From State govt.</li>
+<li>Maximum payout under the subsidy is capped at Rs 10 lakh per station.</li>
+<li>To make charging the EVs cheap the charging stations will get electricity at a tariff that is on par with residential electricity rates, which is significantly cheaper than commercial electricity rates.</li>
+<li>Implemented in only six cities: Mumbai, Pune, Nagpur, Thane, Aurangabad and Nasik.</li>
+</ul>
+</li>
+<li>In June, 2018 Maharashtra State Electricity Distribution Corporation (MSEDEL) had proposed to charge Rs 6 per unit from EV charging stations at both HT and LT voltage levels.</li>
+</ol>
+</html>

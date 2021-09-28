@@ -1,0 +1,15 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<h3>Telangana</h3>
+<ol>
+<li>India's newest state Telangana aims to attract investments worth $3 Bn and create employment for 50K people by 2022 through EVs in shared mobility, charging infrastructure development, support for users who want to shift to electric vehicles from a regular vehicle and EV manufacturing activities. It also clearly defines incentives on the demand and supply side of the EV ecosystem, draws a clear roadmap for developing charging infrastructure in the state and provides incentives related to various components of ownership cost of Electric Vehicles.</li>
+<li>There is also an emphasis on skill development for EV design, development & manufacturing and aims to promote manufacturing of battery cells and packs through special status/ incentives.</li>
+<li>Targets: The Telangana government targets 100% electric buses by 2030 for intra-city, intercity and interstate transport with 25% targetted by 2022 and 50% by 2025.</li>
+<li>Telangana will encourage companies to set up charging infrastructure and offer concessions applicable under the industry policy.</li>
+<li>The State has also decided to procure battery-powered electric buses from the Goldstone-BYD combine, which has included Hyderabad in its pilot project in 11 cities. Telangana is now contemplating issuing more contracts for electric buses.</li>
+<li>Tt has tied up with cab companies and rental firms like Uber, Ola, and ZoomCar for EVs that will cater to last mile connectivity in metro stations. Talks are also underway with M&M and Tata Motors.</li>
+<li>Telangana power utilities also have forwarded a proposal to levy Rs 6.10/kWh from the upcoming electric vehicle (EV) charging stations.</li>
+</ol>
+</html>

@@ -1,0 +1,20 @@
+Manufacturer,Model,Battery Size(kWh),Battery Chemistry,Battery Supplier,Vehicle Range(mi),Vehicle Range(km)
+Tesla,S(Variant 1),60,C/NCA,Panasonic Tesla,265,426
+Tesla,S(Variant 2),100,C/NCA,Panasonic/Tesla,315,508
+Tesla ,X(Variant 1),60,C/NCA,Panasonic/Tesla,200,320
+Tesla,X(Variant 2),100,C/NCA,Panasonic/Tesla,315,508
+BMW,i3(Variant 1),22,C/NMC,Samsung/Bosch,119,190
+BMW,i3(Variant 2),33,C/NMC,Samsung/Bosch,186,300
+BMW,i3(Variant 3),42.2,C/NMC,Samsung/Bosch,224,359
+Nissan ,Leaf,40,C/LMO,AESC/LG Chem,150,241
+Nissan,Leaf,64,C/LMO,AESC/LG Chem,107,172
+Volkswagen,E-Golf,35.8,C/NMC,Panasonic/Tesla,144,232
+Chevrolet,Spark,19,C/LFP,A123,82,132
+Fiat,500e,24,C/NMC,Samsung/Bosch,87,140
+Kia,Soul EV,27,C/NMC,SK Innovation,90,145
+Smart,Fortwo EV,17.6,C/NMC,LG Chem,68,109
+Ford,Focus EV,36,C/NMC,LG Chem,100,160
+Mercedes,B-Class Electric,28,C/NCA,Panasonic/Tesla and SK Innovation,85,137
+Mitsubishi,I,16,LTO/LMO,Toshiba,62,100
+Honda,Fit EV,20,LTO/LMO,Toshiba,82,132
+Toyota,RAV4 EV,41.8,C/NCA,Panasonic/Tesla,113,182

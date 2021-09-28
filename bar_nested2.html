@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Visualisation</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.1.1.min.js" integrity="sha384-kLr4fYcqcSpbuI95brIH3vnnYCquzzSxHPU6XGQCIkQRGJwhg0StNbj1eegrHs12" crossorigin="anonymous"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+      <header>
+          <h1>Efficient Collection Mechanism for Used Li-ion Batteries</h1>
+      </header>
+      <p><strong>Prepared by: Prof. Nomesh Bolia,
+Department of Mechanical Engineering, IITD</strong></p>
+      
+      <nav>
+          <ul>
+              <li><a href='bar_nested%20(3).html'>Home</a></li>
+              <li><a href='bar_book3.html'>Electric two-wheelers models available in market</a></li>
+              <li><a href='bar_graph.html'>Electric four-wheelers models available in market</a></li>
+              <li><a href='India%20Map%20visualization.html'>Statewise no. of EV charging stations</a></li>
+              <li><a href='World%20Map%20Data%20Visualization.html'>Countrywise EV vehicle sales</a></li>
+              
+              <li><a href='bar_nested.html'>Batteries Comparision I</a></li>
+              <li><a href='bar_nested2.html'>Batteries Comparision II</a></li>
+              <li><a href='bar_t1.html'>List of commercial EV models available in market</a></li>
+              <li><a href='pie.html'>Leading countries in Vehicle production</a></li>
+              <li><a href='pie2.html'>Leading countries in Battery cell production</a></li>
+              <li><a href='pie3.html'>Leading countries in Major sales market</a></li>
+              
+          </ul>
+      </nav>
+              <div class="bk-root" id="6cd46c01-e379-4808-bac2-8328f3f2949e" data-root-id="1225"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="1333">
+          {"0f9cdd51-26d3-4f66-b0cb-03971711b5d9":{"roots":{"references":[{"attributes":{"text":"Comparision"},"id":"1226","type":"Title"},{"attributes":{},"id":"1236","type":"CategoricalTicker"},{"attributes":{"formatter":{"id":"1253"},"major_label_orientation":1,"ticker":{"id":"1236"}},"id":"1235","type":"CategoricalAxis"},{"attributes":{},"id":"1233","type":"LinearScale"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"field":"x","transform":{"id":"1243"}},"line_alpha":{"value":0.1},"line_color":{"value":"white"},"top":{"field":"counts"},"width":{"value":0.9},"x":{"field":"x"}},"id":"1246","type":"VBar"},{"attributes":{"below":[{"id":"1235"}],"center":[{"id":"1237"},{"id":"1241"}],"left":[{"id":"1238"}],"plot_height":350,"renderers":[{"id":"1247"}],"title":{"id":"1226"},"toolbar":{"id":"1242"},"toolbar_location":null,"x_range":{"id":"1224"},"x_scale":{"id":"1231"},"y_range":{"id":"1229"},"y_scale":{"id":"1233"}},"id":"1225","subtype":"Figure","type":"Plot"},{"attributes":{"fill_color":{"field":"x","transform":{"id":"1243"}},"line_color":{"value":"white"},"top":{"field":"counts"},"width":{"value":0.9},"x":{"field":"x"}},"id":"1245","type":"VBar"},{"attributes":{"end":2,"factors":["Lead Acid Battery","Lithium-ion Battery"],"palette":["#c9d9d3","#718dbf"],"start":1},"id":"1243","type":"CategoricalColorMapper"},{"attributes":{"axis":{"id":"1235"},"grid_line_color":null,"ticker":null},"id":"1237","type":"Grid"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto"},"id":"1242","type":"Toolbar"},{"attributes":{},"id":"1253","type":"CategoricalTickFormatter"},{"attributes":{"source":{"id":"1223"}},"id":"1248","type":"CDSView"},{"attributes":{},"id":"1254","type":"UnionRenderers"},{"attributes":{},"id":"1231","type":"CategoricalScale"},{"attributes":{},"id":"1255","type":"Selection"},{"attributes":{"data_source":{"id":"1223"},"glyph":{"id":"1245"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"1246"},"selection_glyph":null,"view":{"id":"1248"}},"id":"1247","type":"GlyphRenderer"},{"attributes":{"factors":[["Approximate cost in USD","Lead Acid Battery"],["Approximate cost in USD","Lithium-ion Battery"],["Driving Range (km)","Lead Acid Battery"],["Driving Range (km)","Lithium-ion Battery"]],"range_padding":0.1},"id":"1224","type":"FactorRange"},{"attributes":{"data":{"counts":[700,2400,100,200],"x":[["Approximate cost in USD","Lead Acid Battery"],["Approximate cost in USD","Lithium-ion Battery"],["Driving Range (km)","Lead Acid Battery"],["Driving Range (km)","Lithium-ion Battery"]]},"selected":{"id":"1255"},"selection_policy":{"id":"1254"}},"id":"1223","type":"ColumnDataSource"},{"attributes":{"start":0},"id":"1229","type":"DataRange1d"},{"attributes":{},"id":"1239","type":"BasicTicker"},{"attributes":{"axis":{"id":"1238"},"dimension":1,"ticker":null},"id":"1241","type":"Grid"},{"attributes":{},"id":"1251","type":"BasicTickFormatter"},{"attributes":{"formatter":{"id":"1251"},"ticker":{"id":"1239"}},"id":"1238","type":"LinearAxis"}],"root_ids":["1225"]},"title":"Bokeh Application","version":"2.1.1"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('1333').textContent;
+                  var render_items = [{"docid":"0f9cdd51-26d3-4f66-b0cb-03971711b5d9","root_ids":["1225"],"roots":{"1225":"6cd46c01-e379-4808-bac2-8328f3f2949e"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>

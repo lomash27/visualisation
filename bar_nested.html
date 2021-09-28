@@ -1,0 +1,79 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Visualisation</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.1.1.min.js" integrity="sha384-kLr4fYcqcSpbuI95brIH3vnnYCquzzSxHPU6XGQCIkQRGJwhg0StNbj1eegrHs12" crossorigin="anonymous"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+
+            
+              <div class="bk-root" id="5c279a74-86f0-4761-9721-0dca399d9c41" data-root-id="1594"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="1702">
+          {"ed7887bb-e112-484f-9811-6f1d70279847":{"roots":{"references":[{"attributes":{"axis":{"id":"1607"},"dimension":1,"ticker":null},"id":"1610","type":"Grid"},{"attributes":{},"id":"1624","type":"UnionRenderers"},{"attributes":{"start":0},"id":"1598","type":"DataRange1d"},{"attributes":{},"id":"1621","type":"BasicTickFormatter"},{"attributes":{"text":"Comparision"},"id":"1595","type":"Title"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto"},"id":"1611","type":"Toolbar"},{"attributes":{},"id":"1600","type":"CategoricalScale"},{"attributes":{"data_source":{"id":"1592"},"glyph":{"id":"1614"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"1615"},"selection_glyph":null,"view":{"id":"1617"}},"id":"1616","type":"GlyphRenderer"},{"attributes":{"data":{"counts":[8,4,35,56],"x":[["Charging duration (in typical e-rickshaw)","Lead Acid Battery"],["Charging duration (in typical e-rickshaw)","Lithium-ion Battery"],["Efficiency ( km /kWh )","Lead Acid Battery"],["Efficiency ( km /kWh )","Lithium-ion Battery"]]},"selected":{"id":"1623"},"selection_policy":{"id":"1624"}},"id":"1592","type":"ColumnDataSource"},{"attributes":{},"id":"1602","type":"LinearScale"},{"attributes":{"formatter":{"id":"1619"},"major_label_orientation":1,"ticker":{"id":"1605"}},"id":"1604","type":"CategoricalAxis"},{"attributes":{"factors":[["Charging duration (in typical e-rickshaw)","Lead Acid Battery"],["Charging duration (in typical e-rickshaw)","Lithium-ion Battery"],["Efficiency ( km /kWh )","Lead Acid Battery"],["Efficiency ( km /kWh )","Lithium-ion Battery"]],"range_padding":0.1},"id":"1593","type":"FactorRange"},{"attributes":{},"id":"1619","type":"CategoricalTickFormatter"},{"attributes":{},"id":"1605","type":"CategoricalTicker"},{"attributes":{"end":2,"factors":["Lead Acid Battery","Lithium-ion Battery"],"palette":["#c9d9d3","#718dbf"],"start":1},"id":"1612","type":"CategoricalColorMapper"},{"attributes":{"below":[{"id":"1604"}],"center":[{"id":"1606"},{"id":"1610"}],"left":[{"id":"1607"}],"plot_height":350,"renderers":[{"id":"1616"}],"title":{"id":"1595"},"toolbar":{"id":"1611"},"toolbar_location":null,"x_range":{"id":"1593"},"x_scale":{"id":"1600"},"y_range":{"id":"1598"},"y_scale":{"id":"1602"}},"id":"1594","subtype":"Figure","type":"Plot"},{"attributes":{"axis":{"id":"1604"},"grid_line_color":null,"ticker":null},"id":"1606","type":"Grid"},{"attributes":{"source":{"id":"1592"}},"id":"1617","type":"CDSView"},{"attributes":{"formatter":{"id":"1621"},"ticker":{"id":"1608"}},"id":"1607","type":"LinearAxis"},{"attributes":{"fill_color":{"field":"x","transform":{"id":"1612"}},"line_color":{"value":"white"},"top":{"field":"counts"},"width":{"value":0.9},"x":{"field":"x"}},"id":"1614","type":"VBar"},{"attributes":{},"id":"1608","type":"BasicTicker"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"field":"x","transform":{"id":"1612"}},"line_alpha":{"value":0.1},"line_color":{"value":"white"},"top":{"field":"counts"},"width":{"value":0.9},"x":{"field":"x"}},"id":"1615","type":"VBar"},{"attributes":{},"id":"1623","type":"Selection"}],"root_ids":["1594"]},"title":"Bokeh Application","version":"2.1.1"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('1702').textContent;
+                  var render_items = [{"docid":"ed7887bb-e112-484f-9811-6f1d70279847","root_ids":["1594"],"roots":{"1594":"5c279a74-86f0-4761-9721-0dca399d9c41"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>

@@ -1,0 +1,20 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<h3>Andhra Pradesh</h3>
+<ol>
+<li>The policy released by the Andhra government mainly focusses on promoting innovation through grants and venture funds to research organisations, incubators and startups working on next-generation battery technology, fuel cell technologies, EV power trains and EV electronics and enable investment in charging/battery-swapping infrastructure and hydrogen generation and fueling station development.</li>
+<li>The government plans to attract combined investments of more than INR 30K Cr in the next five years with an employment potential for 60,000 people.</li>
+<li>Target: It also targets to bring in manufacturing units of high-density energy storage of at least 10GWh capacity in the next five years to cater to both domestic as well as export market. The complete APSRTC bus fleet of over 11K buses will be converted into electric buses (BEVs/FCEVs) by 2029, the government has claimed with the first phase of 100% conversion of the bus fleet in top 4 cities by 2024.</li>
+<li>Andhra Pradesh government rolled out an electric mobility policy in May this year, to give incentives to consumers, auto makers, battery manufacturers and charging infrastructure firm.</li>
+<li>The policy allows the complete reimbursement of road tax and registration fees, on sale of electric vehicles until 2024.</li>
+<li>The Andhra Pradesh plans to have 10 lakh electric vehicles or 1 million like Kerala plans on roads in the next five years.</li>
+<li>The government has a target of attracting investment of Rs 30,000-crore in EVs manufacturing in the next five years.</li>
+<li>The policy also provides for 10 percent capital subsidy for the first two car manufacturing firms, stamp duty reimbursement for purchase or lease of land and state GST reimbursements.</li>
+<li>Manufacturing firms will also be offered discounts on power and water tariffs.</li>
+<li>The policy also aims to replace public transport buses in four cities to electric buses by 2024 and across the state by 2030.</li>
+<li>Andhra Pradesh also plans to set up 50 Electric Vehicle Charging Stations in Amaravati, Vijayawada, Guntur, Visakhapatnam, Tirupati, and Tirumala.</li>
+<li>To increase the demand for EVs, the Andhra Pradesh state government has signed an agreement with EESL to procure 10,000 EVs.</li>
+</ol>
+</html>

@@ -1,0 +1,17 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<h3>Tamil Nadu</h3>
+<ol>
+<li>Like other states, TN also aims to attract huge investment for the EV industry in the state. The state has set a goal of INR 500 Bn in investment in EV manufacturing and created a comprehensive EV ecosystem in the state and thereby targetting the creation of 1.5 Lakh new jobs.</li>
+<li>The Policy aims to:
+<ul>
+<li>Create robust infrastructure for electric vehicles including adequate power supply and network of charging points with favourable power tariff.</li>
+<li>Promote innovation in EV for automotive and shared mobility by providing the ecosystem and infrastructure to make Tamil Nadu, the EV hub of India.</li>
+<li>Create a pool of skilled workforce for the EV industry through the technical institutions available in the State and create new jobs in the EV industry.</li>
+<li>Make Tamil Nadu the preferred destination for electric vehicles and component manufacturing units including battery and charging infrastructure.</li>
+</ul>
+</li>
+</ol>
+</html>

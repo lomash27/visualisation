@@ -1,0 +1,7 @@
+streamlit
+matplotlib
+pandas
+folium
+streamlit_folium
+branca
+plotly.express

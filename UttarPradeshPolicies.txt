@@ -1,0 +1,34 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<h3>Uttar Pradesh</h3>
+<ol>
+<li>The policy encourages the use of HEVs and plug-in EVs during the transition phase.</li>
+<li>Targets: 2 lakh (200,000) charging (fast, slow and swapping) stations by 2024 and 1 Mn EVs on the road in all categories and 70% electric vehicles in public transport by 2030.</li>
+<li>The state offers incentives such as capital interest subsidy, infrastructure interest subsidy, industrial quality subsidy, exemption from stamp duty and electricity duty, SGST reimbursement etc. for EV manufacturing units - large, medium, small and micro alike. It also has a single window system in place for all approvals for EV and battery manufacturing units.</li>
+<li>Buyers incentives:
+<ul>
+<li>100% exemption of road tax on Transportation EVs purchased, and Vehicle registration fees of EVs manufactured within Uttar Pradesh.</li>
+<li>100% Interest free loans to State Government employees.</li>
+<li>30% subsidy on road price of EV in form of reimbursement to Individual families with Single-girl child in the State.</li>
+</ul>
+</li>
+<li>Incentives to service providers:
+<ul>
+<li>Service units setting up charging stations with capital investment of more than Rs 25 lacs but less than Rs 5crore, will be provided Capital Interest Subsidy @5% per annum for 5years in the form of reimbursement on loan for procurement of plant & machinery and setting up charging infrastructure (excluding land cost) subject to maximum ceiling of Rs 10lacs per annum per unit.</li>
+<li>Service units setting up charging stations with capital investment of less than Rs 25lacs, will be provided Capital Interest Subsidy @5% per annum for 5years in the form of reimbursement on loan for procurement of plant & machinery and setting up charging infrastructure (excluding land cost) subject to maximum ceiling of Rs 2lacs per annum per unit.</li>
+<li>All service units will be eligible for 100% exemption from paying electricity duty for 10years.</li>
+</ul>
+</li>
+<li>Other provisions:
+<ul>
+<li>Public Transportation - In order to promote EV vehicles in Public Transportation, 1000 EV buses will be introduced by the State by 2030, in phases. 25% in phase I by 2020, remaining 35% in phase II by 2022, and rest 40% in phase III by 2030.</li>
+<li>Further in this context, green routes will be identified by 2020 in GB Nagar, Ghaziabad, Lucknow, Kanpur, Varanasi for 100% EV public transportation.</li>
+<li>Private transportation: Auto rickshaws, Cabs, School buses/vans, etc will be targeted to achieve 100% electric mobility by 2030 in five cities - GB Nagar, Ghaziabad, Lucknow, Kanpur, Varanasi.</li>
+<li>State Govt will promote EV battery and charging equipment manufacturing in Uttar Pradesh.</li>
+</ul>
+</li>
+<li>Uttar Pradesh claims to be the third largest beneficiary under the Faster Adoption and Manufacturing of (Hybrid &) Electric Vehicles in India (FAME program), with over 25000 EVs on the road.</li>
+</ol>
+</html>

@@ -1,0 +1,12 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<h3>Bihar</h3>
+<ol>
+<li>Still in the draft phase, Bihar Electric Vehicle Policy 2019 is aimed at the creation of manufacturing ecosystem for e-vehicles in the state, fulfilling sustainable development goals in the transport system and making Bihar the most preferred investment destination for EV sector.</li>
+<li>Target: End manual paddling of rickshaws in the state and upgrade them into 100% electric mobility by 2022.</li>
+<li>Create fast-charging stations at every 50 km on state highways/national highways in the state.</li>
+<li>Attract on-ground investments of INR 2,500 Cr and create direct empowerment opportunities for 10K persons in the state.</li>
+</ol>
+</html>

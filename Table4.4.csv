@@ -1,0 +1,15 @@
+Manufacturer,Model,Battery Size(kWh),Electric Range(mi),Battery Chemistry,Battery Supplier,Electric Range(km)
+Chevrolet,Volt,18.4,53,C/NMC,LG Chem,85
+Ford,C-Max Energi,7.6,21,C/NMC,Panasonic,32
+Ford,Fusion Energi,7.6,21,C/NMC,Panasonic,32
+BMW,X5,9.2,14,C/NMC,Samsung/Bosch,22
+Hyundai,Sonata Plug In,9.8,27,C/NMC,LG Chem,43
+Audi,A3 Plug In,8.8,16,C/NMC,Panasonic(Sanyo Div.),26
+Volvo,XC90 Plug In,9.2,25,C/NMC,LG Chem,40
+BMW,i8,7.1,23,C/NMC,Samsung/Bosch,37
+Porsche,Cayenne SE-Hybrid,10.8,14,C/NMC,Samsung/Bosch,22
+BMW,3 Series Plug-In,7.6,14,C/NMC,Samsung/Bosch,22
+Mercedes,S550 Plug In,6.4,20,C/NMC,Panasonic(Sanyo Div.),32
+Mercedes,GLE 550E Hybrid,8.8,19,C/NCA & C/NMC,Tesla and SK Innovation,30
+Porsche,Panamera SE-Hybrid,9.4,22,C/NMC,Samsung/Bosch,35
+Cadillac,ELR,17.1,39,C/NMC,LG Chem,60

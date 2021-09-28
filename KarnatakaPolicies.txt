@@ -1,0 +1,30 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<h3>Karnataka</h3>
+<ol>
+<li>The policy mainly aims to create an environment that would attract investments of INR 31K Cr and also create employment opportunities for 55K people. It aims to make Karnataka the preferred destination for development of electric mobility and to develop human capital to meet the needs of the industry. Being one of the early policymakers, the state provides incentives like interest-free loans on the net SGST for EV manufacturing enterprises. Karnataka also plans to develop charging infrastructure as a commercially viable business venture that attracts private investment.</li>
+<li>Karnataka with clear objectives in its EV policy seeks to attract 31,000 crores of investments and 55,000 jobs through it. After missing out to Tamil Nadu in the race to become an auto hub, the state clearly sees a second opportunity in EV’s.</li>
+<li>In this it wants to create and facilitate electric vehicles and associated technologies to thrive in the state.</li>
+<li>Target: It has plans to achieve 100% electric mobility in Auto rickshaws, Cab Aggregators, Corporate fleets, and School buses/vans.</li>
+<li>For public transport:
+<ul>
+<li>Local public transport bus fleets will introduce 1000 EV buses.</li>
+<li>Pilot project called Vayu Vaja will run in select routes to Kempegowda International airport by 2018 end.</li>
+<li>In Goods transport: Bengaluru wants to achieve 100% Electric mobility by 2030 in a phased manner( Three wheelers/4 wheelers mini goods vehicles).</li>
+<li>The state has set a target of inviting investment in setting upto 5GWh of EV battery manufacturing capacity , 5000 direct jobs and 7500 overall jobs.</li>
+<li>100% of stamp duty, electricity duty exemption for all EV cell manufacturing, Batter pack/module manufacturing & assembly enterprises.</li>
+</ul>
+</li>
+<li>There are other incentives directed to speedy establishment of the EV sector in the state and support the businesses who want to venture into the sector. In order to this, the Karnataka government plans to raise new electric vehicles (EV) manufacturing zones, and bring about new charging stations in public and private areas. These include airports, railway stations, metro stations. It also hopes to encourage start-ups to work on EV-related business models.</li>
+<li>The state government is also considering of providing concessions and other incentives for manufacturers in line with the Industrial Policy 2014-19 throughout the state.</li>
+<li>Other Highlights include:
+<ul>
+<li>The Karnataka government is set to procure 640 EVs, 40 electric buses, 100 four-wheelers and 500 three-wheelers, under the FAME program.</li>
+<li>Bengaluru Electricity Supply Company (BESCOM) plans to develop a charging infrastructure for EVs in Bangalore. BESCOM has announced plans to develop 11 fast-charging stations for Bangalore’s EVs.</li>
+<li>Bengaluru which is India’s IT and Startup Capital, has been introducing more innovations along with car aggregator companies in EV sector. Currently, Karnataka, a leading solar state, understands how to integrate renewables into the grid.</li>
+</ul>
+</li>
+</ol>
+</html>
