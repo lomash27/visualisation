@@ -343,7 +343,7 @@ def app():
 
     #st.markdown(return_html(option), unsafe_allow_html=True)
 
-    col1, col2 = st.columns(2)
+    col1, col2 = st.beta_columns(2)
     st.sidebar.subheader('Comparision of Present Battery Electric Vehicles sold in the US')
     option2 = st.sidebar.selectbox("Select type of visualization",("--","Vehicle Range(km)",'Vehicle Range(mi)','Battery Size(kWh)'))
     if option2 is not '--':
